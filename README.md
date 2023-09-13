@@ -1,5 +1,5 @@
 # Hyper-multiple
-This repository is for frameworks introduced in the following paper:  
+This repository is for implementing frameworks introduced in the following paper:  
 **Hyperbolic Audio-visual Zero-shot Learning**
 
 ## Paper and Citation  
