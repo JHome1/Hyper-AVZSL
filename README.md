@@ -12,3 +12,8 @@ If you find our paper/code is useful, please cite:
          year={2023}
         }
 ```
+
+## Curvature Settings
+| Attempt | #1  | #2  |
+| ------- | --- | --- |
+| Seconds | 301 | 283 |
