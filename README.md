@@ -15,7 +15,7 @@ If you find our paper/code is useful, please cite:
 
 ## Curvature Settings
 | Hyper_Framework | Curvature  | Num of adaptive curvatures  |
-| ------- | --- | --- |
+| ------- | :---: | :---: |
 | Hyper-alignment | 0.01 | 0 |
 | Hyper-single    | 0.01 | 1 |
 | Hyper-multiple  | 0.01 | 2 |
