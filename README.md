@@ -14,14 +14,14 @@ If you find our paper/code is useful, please cite:
 ```
 
 ## Curvature Settings
-Curvature values are set on ///:
+Curvature values on ///:
 | Hyper_Framework | Curvature  | Num of adaptive curvatures  |
 | ------- | :---: | :---: |
 | Hyper-alignment | 0.01 | 0 |
 | Hyper-single    | 0.01 | 1 |
 | Hyper-multiple  | 0.01 | 2/2/2 |
 
-Curvature values are set on ///:
+Curvature values on ///:
 | Hyper_Framework | Curvature  | Num of adaptive curvatures  |
 | ------- | :---: | :---: |
 | Hyper-alignment | 0.01 | 0 |
