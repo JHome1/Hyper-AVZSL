@@ -15,6 +15,7 @@ If you find our paper/code is useful, please cite:
 
 ## Datasets and environments
 Download the datasets and set the environments following the project [```AVCA-GZSL```](https://github.com/ExplainableML/AVCA-GZSL).
+
 If there is any problem installing packages, try commands in ```README_pkgs.md```.
 
 ## Curvature settings
