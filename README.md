@@ -2,7 +2,7 @@
 This repository is for implementing frameworks introduced in the following paper:  
 **Hyperbolic Audio-visual Zero-shot Learning**
 
-## Paper and Citation  
+## Paper and citation  
 If you find our paper/code is useful, please cite:
 ```
 @article{hong2023hyperbolic,
@@ -13,11 +13,11 @@ If you find our paper/code is useful, please cite:
         }
 ```
 
-## Datasets and Environments
+## Datasets and environments
 Download the datasets and set the environments following the project [```AVCA-GZSL```](https://github.com/ExplainableML/AVCA-GZSL).
 If there is any problem installing packages, try commands in ```README_pkgs.md```.
 
-## Curvature Settings
+## Curvature settings
 Curvature values on VGGSound-GZSL/UCF-GZSL/ActivityNet-GZSL (main):
 | Hyper_Framework | Curvature  | Num of adaptive curvatures  |
 | ------- | :---: | :---: |
