@@ -14,7 +14,7 @@ If you find our paper/code is useful, please cite:
 ```
 
 ## Datasets and Environments
-Download the datasets and set the environments following the project [``` AVCA-GZSL```](https://github.com/ExplainableML/AVCA-GZSL).
+Download the datasets and set the environments following the project [```AVCA-GZSL```](https://github.com/ExplainableML/AVCA-GZSL).
 If there is any problem installing packages, try commands in ```README_pkgs.md```.
 
 ## Curvature Settings
@@ -33,4 +33,4 @@ Curvature values on VGGSound-GZSL/UCF-GZSL/ActivityNet-GZSL (cls):
 | Hyper-multiple  | 0.04/0.43/0.13 | 3/2/3 |
 
 ## Running the codes
-Run .sh files in ./run_scripts using curvature settings
+Run ```.sh``` files in ```./run_scripts``` using curvature settings
