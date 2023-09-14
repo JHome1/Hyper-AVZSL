@@ -14,9 +14,10 @@ If you find our paper/code is useful, please cite:
 ```
 
 ## Datasets and environments
-Download the datasets and set the environments following the project [```AVCA-GZSL```](https://github.com/ExplainableML/AVCA-GZSL).
+Download the datasets and set the environments following the project [```AVCA-GZSL```](https://github.com/ExplainableML/AVCA-GZSL). If there is any problem installing packages, try commands in ```README_pkgs.md```.
 
-If there is any problem installing packages, try commands in ```README_pkgs.md```.
+Hardware:
+1 NVIDIA GeForce RTX 3090
 
 ## Curvature settings
 Curvature values on VGGSound-GZSL/UCF-GZSL/ActivityNet-GZSL (main):
