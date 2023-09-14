@@ -14,7 +14,7 @@ If you find our paper/code is useful, please cite:
          author={Hong, Jie and Hayder, Zeeshan and Han, Junlin and Fang, Pengfei and Harandi, Mehrtash and Petersson, Lars},
          journal={arXiv preprint arXiv:2308.12558},
          year={2023}
-        }
+         }
 ```
 
 ## Datasets and environments
