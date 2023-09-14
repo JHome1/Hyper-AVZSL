@@ -14,16 +14,16 @@ If you find our paper/code is useful, please cite:
 ```
 
 ## Curvature Settings
-Curvature values on ///:
+Curvature values on VGGSound-GZSL/UCF-GZSL/ActivityNet-GZSL (main):
 | Hyper_Framework | Curvature  | Num of adaptive curvatures  |
 | ------- | :---: | :---: |
-| Hyper-alignment | 0.01 | 0 |
-| Hyper-single    | 0.01 | 1 |
-| Hyper-multiple  | 0.01 | 2/2/2 |
+| Hyper-alignment | 0.46/0.15/0.20 | 0 |
+| Hyper-single    | // | 1 |
+| Hyper-multiple  | // | 2/3/2 |
 
-Curvature values on ///:
+Curvature values on VGGSound-GZSL/UCF-GZSL/ActivityNet-GZSL (cls):
 | Hyper_Framework | Curvature  | Num of adaptive curvatures  |
 | ------- | :---: | :---: |
-| Hyper-alignment | 0.01 | 0 |
-| Hyper-single    | 0.01 | 1 |
-| Hyper-multiple  | 0.01 | 2/2/2 |
+| Hyper-alignment | 0.09/0.19/0.22 | 0 |
+| Hyper-single    | // | 1 |
+| Hyper-multiple  | // | 3/2/3 |
