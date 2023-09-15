@@ -9,5 +9,3 @@ pip install ptflops==0.6.8
 pip install matplotlib==3.1.3
 conda install tensorboard
 pip install einops==0.3.2
-
-
