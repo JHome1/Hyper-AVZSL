@@ -1,4 +1,4 @@
-# Hyper-AVZL
+# Hyper-AVZSL
 This repository is for implementing frameworks introduced in the following paper:  
 **"Hyperbolic Audio-visual Zero-shot Learning"**
 
