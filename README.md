@@ -18,8 +18,8 @@ If you find our paper/code is useful, please cite:
 ```
 
 ## Datasets and environments
-* Download the datasets and set the environments following the project [```AVCA-GZSL```](https://github.com/ExplainableML/AVCA-GZSL).
-* If there is any problem in installing packages, try commands in ```README_pkgs.md```.
+* Download the datasets following the project [```AVCA-GZSL```](https://github.com/ExplainableML/AVCA-GZSL).
+* Install the environment and packages following commands in ```README_pkgs.md```.
 * 1 NVIDIA GeForce RTX 3090
 
 ## Curvature settings
