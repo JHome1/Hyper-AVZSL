@@ -9,12 +9,13 @@ This repository is for implementing frameworks introduced in the following paper
 ## Paper and citation  
 If you find our paper/code is useful, please cite:
 ```
-@article{hong2023hyperbolic,
-         title={Hyperbolic Audio-visual Zero-shot Learning},
-         author={Hong, Jie and Hayder, Zeeshan and Han, Junlin and Fang, Pengfei and Harandi, Mehrtash and Petersson, Lars},
-         journal={arXiv preprint arXiv:2308.12558},
-         year={2023}
-         }
+@inproceedings{hong2023hyperbolic,
+               title={Hyperbolic Audio-visual Zero-shot Learning},
+               author={Hong, Jie and Hayder, Zeeshan and Han, Junlin and Fang, Pengfei and Harandi, Mehrtash and Petersson, Lars},
+               booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+               pages={7873--7883},
+               year={2023}
+               }
 ```
 
 ## Datasets and environments
